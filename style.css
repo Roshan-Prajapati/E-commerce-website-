@@ -314,7 +314,7 @@ feature .fe-box h4{  /* not working*/
     justify-content: center;
     align-items: flex-start;
     background-image: url("image/banner2.jpg"); 
-    min-width: 850px;
+    min-width: 650px;
     height: 50vh;
     background-size: cover;
     background-position: center;
